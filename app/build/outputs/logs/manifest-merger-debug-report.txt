@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:21:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Shubham MM\.android\build-cache\bc9a9066d89aac4dff59c6eb1d8b655ccf52ba0e\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:7:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Shubham MM\.android\build-cache\5e1458017a465b5a80ae38b19ad963742e9291e4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Shubham MM\.android\build-cache\60f6bd6544b1ca7b7fed6d6d6375b49d3ad8fa33\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Shubham MM\.android\build-cache\3cdc37e1664df36d7f8c640cc230e3e5663d6e1f\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\707ce8965df619bf1246714c958c78a80f339a31\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Shubham MM\.android\build-cache\705c5a6c1097a82991c2b513dd508d36a8e7b006\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Shubham MM\.android\build-cache\bbe3c69f1765b1d7e540121775137b8b681649db\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Shubham MM\.android\build-cache\4859f0ea8c1700bb18ccc60b453f8f5795173dbf\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Shubham MM\.android\build-cache\b10aa8cf96653448c17eebb5763fdd73ea6af025\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shubham MM\.android\build-cache\5ddaffecde26d9377c04fb0943b94b3632baf066\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shubham MM\.android\build-cache\4a70e1e5e5d12ac0be7edb568d27047aaea2a147\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shubham MM\.android\build-cache\2c80a48a47e924e3db8a083b509e5ca7af58cbf8\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Shubham MM\.android\build-cache\14e4e282417997a3fae88f263737a679040bcef4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shubham MM\.android\build-cache\782adcf5027b8e8795fbf5af9524ae3cc02504cf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shubham MM\.android\build-cache\db6e345e6febedb6140de65bc6fafde9ef10c63f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shubham MM\.android\build-cache\740123887715e7288955ece057db84902fe71b35\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shubham MM\.android\build-cache\ad6f23274660bc868f3f1c3c14fb9750db28a80d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shubham MM\.android\build-cache\eb9bf040d8811efea1a000f686ddd29ceb4ae6fb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shubham MM\.android\build-cache\c2fbbdb251053ec3c843092f691d6045789cd62a\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.shubhammm.loginsignup.MainActivity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.shubhammm.loginsignup.Main2Activity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.shubhammm.loginsignup.Main3Activity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.shubhammm.loginsignup.Main5Activity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.shubhammm.loginsignup.Main4Activity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.shubhammm.loginsignup.ShowData
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:25:19-43
+activity#com.shubhammm.loginsignup.ShowDatap
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:26:19-44
+activity#com.shubhammm.loginsignup.ViewExperiences
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.shubhammm.loginsignup.ShareExperience
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:28:9-53
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:28:19-50
+service#com.shubhammm.loginsignup.MyFirebaseMessagingService
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:30:9-34:19
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:30:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:31:13-33:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:32:25-75
+activity#com.shubhammm.loginsignup.AboutUs
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:36:9-45
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:36:19-42
+activity#com.shubhammm.loginsignup.KnowTpo
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:37:9-45
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:37:19-42
+activity#com.shubhammm.loginsignup.Profile_Activity
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:40:13-60
+	android:theme
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.shubhammm.loginsignup.Fetch_from_firebase
+ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:42:9-66
+	android:name
+		ADDED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml:42:19-54
+uses-sdk
+INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-storage:9.2.1] C:\Users\Shubham MM\.android\build-cache\334fe01b496a706bf59004e3e2ccc27ee4f64c25\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\83b239eb87c755a685c135cc58ef6210176395de\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Shubham MM\.android\build-cache\5e1458017a465b5a80ae38b19ad963742e9291e4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Shubham MM\.android\build-cache\60f6bd6544b1ca7b7fed6d6d6375b49d3ad8fa33\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Shubham MM\.android\build-cache\3cdc37e1664df36d7f8c640cc230e3e5663d6e1f\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\707ce8965df619bf1246714c958c78a80f339a31\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Shubham MM\.android\build-cache\2b69ad4d9428a1ba3e5cf855de5729da50c34de4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Shubham MM\.android\build-cache\705c5a6c1097a82991c2b513dd508d36a8e7b006\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Shubham MM\.android\build-cache\bc9a9066d89aac4dff59c6eb1d8b655ccf52ba0e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:9.2.1] C:\Users\Shubham MM\.android\build-cache\66cb8082b5bba38153fbd255b51ee9ff1e5058e3\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.1] C:\Users\Shubham MM\.android\build-cache\a296681ca5dc8b13b508c4b2d56b35d2fe2018b5\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Shubham MM\.android\build-cache\bbe3c69f1765b1d7e540121775137b8b681649db\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Shubham MM\.android\build-cache\4859f0ea8c1700bb18ccc60b453f8f5795173dbf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.0.1] C:\Users\Shubham MM\.android\build-cache\b10aa8cf96653448c17eebb5763fdd73ea6af025\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shubham MM\.android\build-cache\5ddaffecde26d9377c04fb0943b94b3632baf066\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shubham MM\.android\build-cache\4a70e1e5e5d12ac0be7edb568d27047aaea2a147\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shubham MM\.android\build-cache\2c80a48a47e924e3db8a083b509e5ca7af58cbf8\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Shubham MM\.android\build-cache\0195b85a94e1b9c2dd5f520a331abe0a433dd481\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Shubham MM\.android\build-cache\14e4e282417997a3fae88f263737a679040bcef4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shubham MM\.android\build-cache\782adcf5027b8e8795fbf5af9524ae3cc02504cf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shubham MM\.android\build-cache\db6e345e6febedb6140de65bc6fafde9ef10c63f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shubham MM\.android\build-cache\740123887715e7288955ece057db84902fe71b35\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shubham MM\.android\build-cache\ad6f23274660bc868f3f1c3c14fb9750db28a80d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shubham MM\.android\build-cache\eb9bf040d8811efea1a000f686ddd29ceb4ae6fb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shubham MM\.android\build-cache\c2fbbdb251053ec3c843092f691d6045789cd62a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Shubham MM\.android\build-cache\b10aa8cf96653448c17eebb5763fdd73ea6af025\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shubham MM\AndroidStudioProjects\CAMPUS RECRUITMENT APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Shubham MM\.android\build-cache\a578a69cf116c400b36e274f03dc91b3d2e481c6\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Shubham MM\.android\build-cache\5dfdeef8d3e7ec0140b857eb0d00451ea98e5a3d\output\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Shubham MM\.android\build-cache\8cf2c5147b1068ee8586721644a6c38b0fe88b60\output\AndroidManifest.xml:20:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\AndroidManifest.xml:25:13-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Shubham MM\.android\build-cache\2595a9d4e66d8db61038600523d275e9e7f961b6\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Shubham MM\.android\build-cache\e801be808dd7c82fcf23811975b9897e6ad967da\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Shubham MM\.android\build-cache\4859f0ea8c1700bb18ccc60b453f8f5795173dbf\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Shubham MM\.android\build-cache\4859f0ea8c1700bb18ccc60b453f8f5795173dbf\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Shubham MM\.android\build-cache\4859f0ea8c1700bb18ccc60b453f8f5795173dbf\output\AndroidManifest.xml:22:13-58

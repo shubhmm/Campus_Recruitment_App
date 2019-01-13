@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_light_background"
+
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:actionBar="@color/ffc0392b"
+    tools:context="com.shubhammm.loginsignup.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="100dp"
+        android:layout_weight="0.45"
+        android:background="@color/cardview_light_background"
+        app:srcCompat="@drawable/abc" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:layout_weight="0.15"
+        android:gravity="center"
+        android:text="WELCOME TO TPO-MNNIT"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp" />
+</LinearLayout>

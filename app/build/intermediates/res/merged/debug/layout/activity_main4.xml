@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff2c3e50"
+    android:orientation="vertical"
+
+    tools:context="com.shubhammm.loginsignup.Main4Activity">
+
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="50dp"
+        android:background="@android:color/background_light"
+        android:ems="10"
+        android:hint="Registration No."
+        android:inputType="textEmailAddress"
+        android:textColor="@color/common_google_signin_btn_text_light_focused"
+        android:textColorLink="@color/colorPrimary"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="25dp"
+        android:background="@android:color/background_light"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorPrimary"
+        android:onClick="login"
+        android:text="LOGIN"
+        android:textColor="@color/house_starkk"
+        android:textColorLink="@android:color/transparent"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="225dp"
+        android:background="@android:color/transparent"
+        android:onClick="signup"
+        android:text="New To App , Register Here !"
+        android:textColor="@color/cardview_light_background"
+        android:textColorLink="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="20sp" />
+</LinearLayout>

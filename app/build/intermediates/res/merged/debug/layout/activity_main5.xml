@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_plus_signin_btn_text_light_focused"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.shubhammm.loginsignup.Main5Activity">
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="298dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="7dp" />
+
+
+    <EditText
+        android:id="@+id/registration"
+        android:layout_width="298dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Registration No."
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="73dp" />
+
+    <EditText
+        android:id="@+id/branch"
+        android:layout_width="298dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Branch"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <EditText
+        android:id="@+id/yearop"
+        android:layout_width="298dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="E-Mail"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <EditText
+        android:id="@+id/cpi"
+        android:layout_width="298dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Enter Your C.P.I."
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="7dp" />
+
+
+    <EditText
+        android:id="@+id/contact"
+        android:layout_width="298dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Contact No."
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="237dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="85dp"
+        android:background="@android:color/transparent"
+        android:onClick="updated"
+        android:text="SUBMIT"
+        android:textColor="@color/common_google_signin_btn_text_light_pressed"
+        android:textColorLink="?attr/colorControlNormal"
+        android:textSize="22sp"
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="437dp" />
+
+</LinearLayout>

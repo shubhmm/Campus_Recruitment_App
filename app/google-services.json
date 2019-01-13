@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133476355313",
+    "firebase_url": "https://ons1-accae.firebaseio.com",
+    "project_id": "ons1-accae",
+    "storage_bucket": "ons1-accae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133476355313:android:50cb62c885de32a3",
+        "android_client_info": {
+          "package_name": "com.shubhammm.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133476355313-ia4klnsfa8r38gnmn0t5e87ossd9l4bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7lqwCMOtJnQnFEFGq-lrO1EAmC12N2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#4f68f8</color>
+    <color name="colorAccent">#34495e</color>
+
+    <color name="house_stark">#ff2c3e50</color>
+    <color name="house_starkk">#eeeeee</color>
+    <color name="house_lannister">#c0392b</color>
+    <color name="house_baratheon">#fff39c12</color>
+    <color name="house_greyjoyy">#1e5183</color>
+    <color name="house_martell">#ffd35400</color>
+    <color name="house_targaryen">#ff111111</color>
+    <color name="house_tully">#c0392b</color>
+    <color name="house_arryn">#ff8e44ad</color>
+    <color name="house_tyrell">#ff27ae60</color>
+
+
+</resources>
